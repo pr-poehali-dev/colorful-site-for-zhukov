@@ -34,7 +34,7 @@ const Hero = () => {
             <Button
               variant="outline"
               size="lg"
-              className="border-white text-white hover:bg-white hover:text-purple-600 font-semibold px-8 py-3 text-lg transition-all duration-300"
+              className="border-white text-white hover:bg-white hover:text-purple-600 font-semibold px-8 py-3 text-lg transition-all duration-300 gap-2"
             >
               <Icon name="Eye" size={20} />
               Посмотреть работы
